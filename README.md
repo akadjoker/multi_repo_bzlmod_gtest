@@ -1,5 +1,8 @@
 # Bazel + GoogleTest Monorepo
 
+[![CI](https://github.com/akadjoker/gtest_bazel/actions/workflows/ci.yml/badge.svg)](https://github.com/akadjoker/gtest_bazel/actions/workflows/ci.yml)
+
+
 Monorepo de treino com vários **pacotes C++** (cada um com a sua lib e testes) usando **Bazel (bzlmod)** e **GitHub Actions**.
 
 > Exemplos incluídos: `examples/math_utils`, `examples/string_utils`, `examples/geometry`.
